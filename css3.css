@@ -78,26 +78,7 @@ ul.menu li {
 	position: relative;
 	float: left;
 	margin: 1px;
-            }
-.block-container, 
-.block-container div, 
 
-.block-container div, 
-.block-front {
-	z-index: 1001;
-	background-color: white;
-	transition: all 0.4s ease-in-out 0s;
-	opacity: 0;
-	color: black;
-            }
-.block-front:hover { opacity: .8; }
-.block-front span {
-	display: block;
-	padding: 260px 10px 0 10px;
-	text-align: center;
-	font-family: 'Oswald', sans-serif;
-	letter-spacing: 0.05em;
-            }
 
 
 
