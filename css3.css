@@ -81,7 +81,7 @@ ul.menu li {
             }
 .block-container, 
 .block-container div, 
-
+.block-container img { width: 350px; height: 350px; }
 .block-container div, 
 .block-container img { position: absolute; }
 .block-container img {z-index: 1000;}
@@ -102,10 +102,6 @@ ul.menu li {
             }
 
 
-
-
-
-
 .line {
 	margin-top: 40px;
 }
@@ -122,6 +118,7 @@ ul.menu li {
 .fh {
 	margin-top: 10px;
 }
+
 
 .copy {
 	margin: 10px;
