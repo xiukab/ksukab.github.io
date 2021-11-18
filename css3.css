@@ -83,8 +83,6 @@ ul.menu li {
 .block-container div, 
 
 .block-container div, 
-.block-container img { position: absolute; }
-.block-container img {z-index: 1000;}
 .block-front {
 	z-index: 1001;
 	background-color: white;
